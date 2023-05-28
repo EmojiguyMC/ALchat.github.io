@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ChatGPT</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>ChatGPT</h1>
+      <p>A conversational AI chatbot that can help you with a variety of tasks, including generating text, translating languages, writing different kinds of creative content, and answering your questions in an informative way.</p>
+    </header>
+    <main>
+      <section>
+        <h2>How to use ChatGPT</h2>
+        <p>To use ChatGPT, simply type your question or request into the text box and press Enter. ChatGPT will then generate a response.</p>
+        <p>You can also use ChatGPT to generate different creative text formats, such as poems, code, scripts, musical pieces, email, letters, etc.</p>
+      </section>
+      <section>
+        <h2>Examples of ChatGPT's capabilities</h2>
+        <ul>
+          <li>Generating text:</li>
+          <ul>
+            <li>ChatGPT can generate text in a variety of styles, including creative writing, technical writing, and business writing.</li>
+            <li>ChatGPT can also generate text in different languages.</li>
+          </ul>
+          <li>Translating languages:</li>
+          <ul>
+            <li>ChatGPT can translate between a variety of languages, including English, French, Spanish, German, Chinese, and Japanese.</li>
+            <li>ChatGPT can also translate between different dialects of the same language.</li>
+          </ul>
+          <li>Writing different kinds of creative content:</li>
+          <ul>
+            <li>ChatGPT can write poems, code, scripts, musical pieces, email, letters, etc.</li>
+            <li>ChatGPT can also generate different creative text formats in different styles.</li>
+          </ul>
+          <li>Answering your questions in an informative way:</li>
+          <ul>
+            <li>ChatGPT can answer your questions in an informative way, even if they are open ended, challenging, or strange.</li>
+            <li>ChatGPT can also provide links to additional information if you need it.</li>
+          </ul>
+        </ul>
+      </section>
+      <section>
+        <h2>Try it out!</h2>
+        <p>To try out ChatGPT, simply type your question or request into the text box below and press Enter.</p>
+        <form action="/" method="post">
+          <input type="text" name="query" placeholder="Type your question or request here">
+          <input type="submit" value="Submit">
+        </form>
+      </section>
+    </main>
+    <footer>
+      <p>Copyright &copy; 2023 ChatGPT</p>
+    </footer>
+  </div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+</body>
+</html>
